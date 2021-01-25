@@ -1,0 +1,37 @@
+body{
+    margin:0;
+    padding:0;
+    background:rgb(177, 218, 243);
+}
+.rectangle{
+    width:60%;
+    height:35vh;
+    background:rgb(122, 126, 129);
+    margin-left:30%;
+    border-radius: 10px;
+}
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display:flex;
+        padding:20px;
+}
+li{
+    padding:20px;
+    text-decoration:none;
+}
+ul,li,a{
+    text-decoration:none;
+    color:rgb(243, 213, 213);
+
+   
+
+}
+img {
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+    margin:50px;
+  }
+
